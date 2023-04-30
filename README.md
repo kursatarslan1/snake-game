@@ -13,7 +13,7 @@ seçiliyor ve "B" tuşuna basarak oyun başlatılıyor. Oyun içerisinde "D" tu�
 
 ![snake2](https://user-images.githubusercontent.com/79106716/235342697-aef21859-e193-4dc1-807e-fd504410e071.png)
 
-Yön tuşları yerine WASD tuşları ile kontrol ediliyor isteyenler kaynak kodları içerisinden değiştirebilirler. Oyunun genel görüntüsü aşağıdaki gibidir.
+Yön tuşları ile kontrol ediliyor isteyenler kaynak kodları içerisinden değiştirebilirler. Oyunun genel görüntüsü aşağıdaki gibidir.
 
 ![snake-3](https://user-images.githubusercontent.com/79106716/235342724-493c0b51-fdf0-4dfb-827e-6192f65849d6.png)
 
