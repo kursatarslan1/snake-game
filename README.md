@@ -23,3 +23,6 @@ Yön tuşları yerine WASD tuşları ile kontrol ediliyor isteyenler kaynak kodl
 İki yem yeme arasında geçen süreyi toplam süreden çıkardığımızda eğer çıkan sonuç 100 - den az ise yani iki yem yeme arasında 100 saniyeden fazla zaman yoksa: 
  - Yem yediğimiz zaman alacağımız puan 100 /  (toplam zaman + salise/(100 - iki yem arasında geçen zaman))
  - Eğer yemler 4 köşe noktalarından birine denk geldiyse ve alındıysa ekstra 10 puan daha ekleniyor.
+
+100 den fazla ise geçen zaman:
+ - Puan alamazsınız.
